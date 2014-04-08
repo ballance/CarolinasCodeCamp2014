@@ -1,5 +1,5 @@
-CarolinasCodeCamp2014
-=====================
+Carolinas Code Camp 2014 - Chris Ballance Demo
+==============================================
 
 Demo project for Carolinas Code Camp 2014
 
