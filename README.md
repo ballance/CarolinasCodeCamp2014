@@ -14,3 +14,6 @@ Demo project for Carolinas Code Camp 2014
 - [ ] Discussion of Bootstrap
 - [ ] Working with GIT
 - [ ] Public access to pull down code
+- [ ] Authentication
+- [ ] Styling with Bootstrap
+- [ ] Nuget
